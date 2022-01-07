@@ -7,7 +7,7 @@
 - 我目前工作于携程-火车票部门，负责火车票抢票预订工作。
 - 👯 The current target is to do the job well and improve myself in practice.
 - 目前的目标是做好本职工作，在实践中努力提升自己，完成课业代码到工程代码的工作
-- 🤔 The main projects(which are keep updating...) in Github are for Java study and record notes of leetcode and books i read.
+- 🤔 The main projects(which are keep updating...) in Github are for Java study and record notes of [leetcode](https://leetcode-cn.com/u/ma-jiang-3/) and books I read.
 - 目前Github保持更新的项目，主要是为了记录Java学习和读书以及刷leetcode笔记。
 - 📫 How to reach me: Just contact me by email(sumengz97@qq.com),or WeChat(Simonsusususu)
 
