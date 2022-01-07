@@ -4,7 +4,7 @@
 **SUMENGZHANG/SUMENGZHANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I am SumengZhang(Simon) i am a master graduated from The University of Melbourne. My major is Machine Learning and Nature Language Processing, but i am doing a job as back-end developer.
-- 大家好，我叫张苏蒙，我刚刚完成墨尔本大学IT硕士学位。虽然学习了很多算法知识，但是现在从事行业为Java后端开发。
+- 大家好，我叫张苏蒙，毕业于墨尔本大学信息工程专业。学习了很多算法知识，但现在从事行业为Java后端开发。
 - 🌱 I’m currently working as a Back-end developer in [Ctrip](https://trip.com/)
 - 我目前工作于携程-火车票部门，负责火车票抢票预订工作。
 - 👯 The current target is to do the job well and improve myself in practice.
