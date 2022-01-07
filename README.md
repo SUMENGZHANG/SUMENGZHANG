@@ -23,3 +23,5 @@
 - 🤔 The main projects(which are keep updating...) in Github are for Java study and record notes of leetcode and books i read.
 - 目前Github保持更新的项目，主要是为了记录Java学习和读书以及刷leetcode笔记。
 - 📫 How to reach me: Just contact me by email(sumengz97@qq.com),or WeChat(Simonsusususu)
+
+- 目前正在阅读的书籍：《Clean Code》
