@@ -10,6 +10,6 @@
 - 🤔 The main projects(which are keep updating...) in Github are for Java study and record notes of [leetcode](https://leetcode-cn.com/u/ma-jiang-3/) and books I read.
 - 目前Github保持更新的项目，主要是为了记录Java学习和读书以及刷leetcode笔记。
 - 📫 How to reach me: Just contact me by email(sumengz97@qq.com),or WeChat(Simonsusususu)
-- Current Status：Reading 《SPring in action》.
+- Current Status：Reading 《Spring in action》.
 ## Conclusions - 啥时候变强啊！ ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sumengzhang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumengzhang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
