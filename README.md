@@ -3,8 +3,8 @@
 
 - 🔭 I am SumengZhang(Simon),I completed bachelor study in Queensland University of Technology(QUT) and  I am a master graduated from The University of Melbourne(Unimelb). My major is Machine Learning(including NLP,AI), emmm but I am doing a job as back-end developer.
 - 大家好，我叫张苏蒙，毕业于墨尔本大学信息工程专业。学习了很多算法知识，但现在从事行业为Java后端开发。
-- 🌱 I’m currently working as a back-end developer in [Ctrip](https://ctrip.com/)
-- 我目前工作于携程-火车票部门，负责火车票抢票预订工作。
+- 🌱 I’m currently working as a back-end developer in [Alibaba]([(https://www.aliyun.com/))
+- 我目前工作于阿里巴巴-云智能集团，负责瓴羊营销云业务。
 - 👯 The current goal is to do the job well and improve myself in practice.
 - 当前的目标是做好本职工作，在实践中努力提升自己，完成课业代码到工程代码的过渡
 - 🤔 The main projects(which are keep updating...) in Github are for Java study and record notes of [leetcode](https://leetcode-cn.com/u/ma-jiang-3/) and books I read.
